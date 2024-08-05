@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Chathumi Perera</h1>
+<h1 align="center" font>Hi 👋, I'm Chathumi Perera</h1>
 <h3 align="center">A passionate Full Stack developer & UG from UOK, Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chathumiamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathumiamarasinghe" /> </p>
@@ -36,12 +36,12 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chathumiamarasinghe&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chathumiamarasinghe&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chathumiamarasinghe" src="https://github-readme-streak-stats.herokuapp.com/?user=chathumiamarasinghe&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chathumiamarasinghe&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathumiamarasinghe&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
   
   </td>
 </tr>
