@@ -10,7 +10,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [Electricity-Management-System](https://github.com/chathumiamarasinghe/Electricity-Billing-System.git)
+- 🔭 I’m currently working on [Electricity-Billing-System](https://github.com/chathumiamarasinghe/Electricity-Billing-System.git)
 
 - 🌱 I’m currently learning **OOP with java, Frameworks**
 
