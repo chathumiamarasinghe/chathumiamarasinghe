@@ -1,6 +1,6 @@
 
 <h1 align="center" font>Hi 👋, I'm Chathumi Perera</h1>
-<h3 align="center">A passionate Full Stack Developer in training and an IT undergraduate at the Department of Industrial Management, University of Kelaniya, Sri Lanka.</h3>
+<h3 align="center">A passionate Full Stack Developer in training and an IT undergraduate at the Department of Industrial Management, University of Kelaniya, Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chathumiamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chathumiamarasinghe" /> </p>
 
