@@ -10,13 +10,13 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [Electricity-Billing-System](https://github.com/chathumiamarasinghe/Electricity-Billing-System.git)
+- 🔭 I’m currently working on [Android Weather App](https://github.com/chathumiamarasinghe/Weather-Android-App.git)
 
-- 🌱 I’m currently learning **OOP with java, Frameworks**
+- 🌱 I’m currently learning **OOP with java, Frameworks,React.js,Express.js & c#**
 
-- 👯 I’m collaborating on [Inventory-Management-System](https://github.com/tashidu/webdev.git)
+- 👯 I’m collaborating on [Android Recipe App-Java](https://github.com/tashidu/New_Recipe.git)
 
-- 💬 Ask me about **C++, java, PHP, Web Development**
+- 💬 Ask me about **C++, java, PHP, Web Development,Mobile App Development**
 
 - 📫 How to reach me **chathumiamarasinghe@gmail.com**
 
