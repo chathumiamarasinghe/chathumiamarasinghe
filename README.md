@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://cdna.artstation.com/p/assets/images/images/073/492/620/original/umer-ahmed-developer-gif-animation.gif?1709777705" width="200" alt="Developer GIF">
+</div>
 <h1 align="center" font>Hi 👋, I'm Chathumi Perera</h1>
 <h3 align="center">A passionate Full Stack Developer in training and an IT undergraduate at the Department of Industrial Management, University of Kelaniya, Sri Lanka</h3>
 
