@@ -12,7 +12,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [Android Weather App](https://github.com/chathumiamarasinghe/Weather-Android-App.git)
+- 🔭 I’m currently working on [Advanced-E-commerce-platform-for-viviki-rubbber-products-pvt-ltd](https://github.com/chathumiamarasinghe/Advanced-E-commerce-platform-for-viviki-rubbber-products-pvt-ltd.git)
 
 - 🌱 I’m currently learning **OOP with java, Frameworks,React.js,Express.js & c#**
 
