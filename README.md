@@ -18,7 +18,7 @@
 
 - 👯 I’m collaborating on [Android Recipe App-Java](https://github.com/tashidu/New_Recipe.git)
 
-- 💬 Ask me about **C++, java, PHP, Web Development,Mobile App Development**
+- 💬 Ask me about **C++, java, PHP, Dart, React, Web Development,Mobile App Development**
 
 - 📫 How to reach me **chathumiamarasinghe@gmail.com**
 
