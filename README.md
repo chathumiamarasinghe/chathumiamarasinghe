@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **OOP with java, Frameworks,React.js,Express.js & c#**
 
-- 👯 I’m collaborating on [Android Recipe App-Java](https://github.com/tashidu/New_Recipe.git)
+- 👯 I’m collaborating on [Decentralized E-Com Application](https://github.com/chathumiamarasinghe/decomapp.git)
 
 - 💬 Ask me about **C++, java, PHP, Dart, React, Web Development,Mobile App Development**
 
