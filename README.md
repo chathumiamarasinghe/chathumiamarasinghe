@@ -8,24 +8,29 @@
 
 ---
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🔭 I’m currently working on [**Data Warehouse Project**](https://github.com/chathumiamarasinghe/dwh-project)  
+<table align="center" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td width="90%" align="left" style="background:#f9f9f9; border-radius:15px; padding:20px; box-shadow:0 0 10px rgba(0,0,0,0.08);">
 
-- 🌱 I’m currently learning **PySpark, Apache Airflow, MLflow, and Data Warehousing best practices.**
+  <h3 align="center">💡 About Me</h3>
+  <p align="left">
+  <ul>
+    <li>🔭 <b>Currently Working On:</b> <a href="https://github.com/chathumiamarasinghe/dwh-project" target="_blank">Data Warehouse Project</a> — developing scalable ETL pipelines & analytical data models.</li><br>
+    
+  <li>🌱 <b>Learning:</b> <i>PySpark, Apache Airflow, MLflow, and Data Warehousing best practices.</i></li><br>
+    
+  <li>👯 <b>Collaborating On:</b> <a href="https://github.com/chathumiamarasinghe/decomapp.git" target="_blank">Decentralized E-Commerce Application</a></li><br>
+    
+  <li>💬 <b>Ask Me About:</b> Data Engineering · ETL Pipelines · SQL · Python · Java · Web & Mobile App Development</li><br>
+    
+  <li>📫 <b>Reach Me At:</b> <a href="mailto:chathumiamarasinghe@gmail.com">chathumiamarasinghe@gmail.com</a></li><br>
+    
+  <li>⚡ <b>Fun Fact:</b> Call me <b>CS</b> — I turn data into insights and caffeine into code ☕</li>
+  </ul>
+  </p>
 
-- 👯 I’m collaborating on [Decentralized E-Com Application](https://github.com/chathumiamarasinghe/decomapp.git)
-
-- 💬 Ask me about **Data Engineering, ETL Pipelines, SQL, Python, Java, Web & Mobile App Development.**
-
-- 📫 How to reach me **chathumiamarasinghe@gmail.com**
-
-- ⚡ Fun fact **Call me as CS**
-</td>
-
-</tr>
+  </td>
+  </tr>
 </table>
 
 ---
